@@ -47,15 +47,6 @@ const ItemModal: React.FC<ItemModalProps> = ({ item }) => {
               <button className="w-100 btn btn-dark">Contact</button>
             </div>
           </div>
-          {/*<div className="modal-footer">*/}
-          {/*  <button*/}
-          {/*    type="button"*/}
-          {/*    className="btn btn-danger"*/}
-          {/*    onClick={handleClose}*/}
-          {/*  >*/}
-          {/*    Close*/}
-          {/*  </button>*/}
-          {/*</div>*/}
         </div>
       </div>
     </div>
